@@ -1,3 +1,3 @@
-# multiple_linear_regressor_for_predicting_salary_on_the_basis_of_year_of_experience.ipynb
+# multiple_linear_regressor_model_on_50_startups.ipynb
 
 https://colab.research.google.com/drive/1CxwADSCidfqiEtcJjMKxBXaoD_iRH1g3?usp=sharing
